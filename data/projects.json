@@ -1,0 +1,22 @@
+[
+  {
+    "id": "proyecto-cocina",
+    "title": "Reforma de cocina moderna",
+    "subtitle": "Reforma de cocina moderna",
+    "breadcrumb": "Reforma de cocina moderna",
+    "tag": "Reforma",
+    "description": "Renovamos completamente esta cocina con un diseño moderno y funcional.\n\nAquí va el texto en detalle",
+    "image": "cocina.jpg",
+    "gallery": ["cocina1.jpg", "cocina2.jpg", "cocina3.jpg"]
+  },
+  {
+    "id": "proyecto-cocina",
+    "title": "Reforma de cocina moderna",
+    "subtitle": "Reforma de cocina moderna",
+    "breadcrumb": "Reforma de cocina moderna",
+    "tag": "Reforma",
+    "description": "Renovamos completamente esta cocina con un diseño moderno y funcional.",
+    "image": "cocina.jpg",
+    "gallery": ["cocina1.jpg", "cocina2.jpg", "cocina3.jpg"]
+  }
+]
