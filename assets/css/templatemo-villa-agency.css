@@ -1596,6 +1596,12 @@ Single Page Style
 --------------------------------------------- 
 */
 
+.propertydetails-paragraph {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+}
+
 .single-property .main-image img {
   float: none;
 }

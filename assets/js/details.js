@@ -17,6 +17,8 @@ window.addEventListener("DOMContentLoaded", () => {
 
         document.getElementById("title-project").textContent = project.title;
         document.getElementById("subtitle-project").textContent = project.subtitle;
+        document.getElementById("tag-project").textContent = project.tag;
+        document.getElementById("breadcrumb-project").textContent = project.breadcrumb;
         document.getElementById("description-project").textContent = project.description;
         document.getElementById("image-project").src = "assets/images/" + project.image;
   
